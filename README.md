@@ -4,7 +4,7 @@ This is a gallery of videos with infinite scroll! ;)
 
 ### Technologies I use ###
 
-* HTML5, to take advantage of the <video> tag (essential!!!)
+* HTML5, to take advantage of the video tag (essential!!!)
 * CSS3, to let animations and SVG manipulation run WILD.
 * JQuery, as I like shortcuts and beautiful code, of course.
 * JQuery UI, providing helper libraries, such as Resizable, which I use to control the video time bar.
